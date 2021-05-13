@@ -14,6 +14,7 @@ public class L9Q1 {
     public static void main(String[] args) {
         Random rng = new Random();              //Calls the Random class
         Scanner sc = new Scanner(System.in);//Calls the Scanner class
+        System.out.println("HEHEHEHHEHEHEHE");
         System.out.println("HAHAHAHAHAHAHAHHA");
         System.out.print("Enter N : ");
         int n = sc.nextInt();                   //Prompts user input for N
